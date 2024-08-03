@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-07-09T14:56:03.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="D_MRZgWkeXJupUSG21QI" version="24.6.4" type="github" pages="2">
+  <diagram id="e1y3BxRYIFItdmJszxYJ" name="Débuter une activité">
+    <mxGraphModel dx="1050" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G6onH3qoBYrgZA5ai4z2-1" value="&lt;b&gt;Documentation détaillée du cas d&#39;utilisation &#39;&#39;Débuter une activité&#39;&#39; avec le scénario principal et un scénario alternatif&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Gyu0Fe1tZTbV2hFytUB-1" target="-Gyu0Fe1tZTbV2hFytUB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Gyu0Fe1tZTbV2hFytUB-1" value="Employé" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Gyu0Fe1tZTbV2hFytUB-2" value="Débuter une activité" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-18" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="600" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-18">
+          <mxGeometry width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-20" value="Employé" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-19">
+          <mxGeometry width="300" height="30" as="geometry">
+            <mxRectangle width="300" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-21" value="Système" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-19">
+          <mxGeometry x="300" width="300" height="30" as="geometry">
+            <mxRectangle width="300" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-23" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-18">
+          <mxGeometry y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-24" value="1.&amp;nbsp;L&#39;employé se connecte au système en entrant son nom d&#39;utilisateur et son ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-23">
+          <mxGeometry width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-25" value="2. Le système vérifie les informations de connexion" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-23">
+          <mxGeometry x="300" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-18">
+          <mxGeometry y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-28" value="3. L&#39;employé sélectionne l&#39;option débuter une activité" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-27">
+          <mxGeometry width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-29" value="4.&amp;nbsp;Le système demande le nom du projet et la discipline de travail" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-27">
+          <mxGeometry x="300" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-31" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-18">
+          <mxGeometry y="110" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-32" value="5.&amp;nbsp;L&#39;employé entre les informations demandées" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-31">
+          <mxGeometry width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bi_zbaur8YVv-dRvdOiZ-33" value="6.&amp;nbsp;Le système enregistre l&#39;heure et la date de début de l&#39;activité et confirme le début de l&#39;activité" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="Bi_zbaur8YVv-dRvdOiZ-31">
+          <mxGeometry x="300" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-1" value="&lt;b&gt;SCÉNARIO PRINCIPAL : l&#39;employé souhaite débuter une activité&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-2" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="C689LAIW0HQWSUdfyX5s-2">
+          <mxGeometry width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-4" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="C689LAIW0HQWSUdfyX5s-3">
+          <mxGeometry width="300" height="50" as="geometry">
+            <mxRectangle width="300" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-5" value="1. Les informations de connexion sont invalides, le système affiche un message d&#39;erreur. Le scénario alternatif 2a reprend au point 1 du scénario principal." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="C689LAIW0HQWSUdfyX5s-3">
+          <mxGeometry x="300" width="300" height="50" as="geometry">
+            <mxRectangle width="300" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C689LAIW0HQWSUdfyX5s-15" value="&lt;b&gt;SCÉNARIO ALTERNATIF 2a: les informations de connexion sont invalides&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="450" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Terminer une activité" id="mcsBHHYosUS--Emw1Q7t">
+    <mxGraphModel dx="1050" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-0" />
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-1" parent="kLREIsx6Ehb6YqjVUCh6-0" />
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-2" value="&lt;b&gt;Documentation détaillée du cas d&#39;utilisation &#39;&#39;Terminer une activité&#39;&#39; avec le scénario principal et un scénario alternatif&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="80" y="10" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kLREIsx6Ehb6YqjVUCh6-1" source="kLREIsx6Ehb6YqjVUCh6-4" target="kLREIsx6Ehb6YqjVUCh6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-4" value="Employé" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="290" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-5" value="Terminer une activité" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="440" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-6" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="120" y="160" width="600" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-7" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-6">
+          <mxGeometry width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-8" value="Employé" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-7">
+          <mxGeometry width="300" height="30" as="geometry">
+            <mxRectangle width="300" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-9" value="Système" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-7">
+          <mxGeometry x="300" width="300" height="30" as="geometry">
+            <mxRectangle width="300" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-6">
+          <mxGeometry y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-11" value="1.&amp;nbsp;L&#39;employé se connecte au système en entrant son nom d&#39;utilisateur et son ID" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-10">
+          <mxGeometry width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-12" value="2. Le système vérifie les informations de connexion" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-10">
+          <mxGeometry x="300" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-13" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-6">
+          <mxGeometry y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-14" value="3. L&#39;employé sélectionne l&#39;option terminer une activité" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-13">
+          <mxGeometry width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-15" value="4.&amp;nbsp;Le système enregistre l&#39;heure et la date de fin de l&#39;activité et confirme la fin de l&#39;activité." style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-13">
+          <mxGeometry x="300" width="300" height="40" as="geometry">
+            <mxRectangle width="300" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-19" value="&lt;b&gt;SCÉNARIO PRINCIPAL : l&#39;employé souhaite terminer une activité&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="100" y="130" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-20" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;align=left;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="120" y="320" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-20">
+          <mxGeometry width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-22" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-21">
+          <mxGeometry width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-23" value="1.&amp;nbsp;Le système affiche un message d&#39;erreur indiquant qu&#39;il n&#39;y a pas d&#39;activité en cours à terminer. Le scénario alternatif 4a reprend au point 3 du scénario principal" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-21">
+          <mxGeometry x="300" width="300" height="60" as="geometry">
+            <mxRectangle width="300" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kLREIsx6Ehb6YqjVUCh6-24" value="&lt;b&gt;SCÉNARIO ALTERNATIF 4a: il n&#39;y a pas d&#39;activité en cours à enregistrer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kLREIsx6Ehb6YqjVUCh6-1">
+          <mxGeometry x="100" y="290" width="450" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
